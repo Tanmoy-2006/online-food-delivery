@@ -28,7 +28,7 @@ export const categories = [
   { id: "pizza", name: "Pizza", icon: "🍕", image: pizza, color: "#fff0e6" },
   { id: "burger", name: "Burger", icon: "🍔", image: burger, color: "#fff7d6" },
   { id: "biryani", name: "Biryani", icon: "🍛", image: biryani, color: "#ffe8d9" },
-  { id: "chinese", name: "Chinese", icon: "🥡", image: "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=900&q=80", color: "#ffe5e5" },
+  { id: "chinese", name: "Chinese", icon: "🥡", image:ChilliPaneer, color: "#ffe5e5" },
   { id: "indian", name: "Indian", icon: "🍲", image: northIndian, color: "#fff0dc" },
   { id: "pasta", name: "Pasta", icon: "🍝", image: pasta, color: "#fff3dc" },
   { id: "rolls", name: "Rolls", icon: "🌯", image: rolls, color: "#e9f6e9" },
